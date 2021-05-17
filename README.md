@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development .
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any interesting projects.
-- 📫 setorkg@gmail.com...
+- 📫 setorkwame.rf.gd
 
 <!---
 Setornam/Setornam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
