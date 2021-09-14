@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Setornam
 - 👀 I’m interested in front-end development .
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 setorkwame.rf.gd
 
