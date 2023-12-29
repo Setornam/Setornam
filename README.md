@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Setornam
 - 👀 I’m interested in front-end development .
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning Next.js.
 - 💞️ I’m looking to collaborate on any interesting projects.
-- 📫 setorkwame.rf.gd
+- 📫 setorkwame.com
 
 <!---
 Setornam/Setornam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
